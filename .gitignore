@@ -3,7 +3,14 @@ __pycache__/
 .pytest_cache/
 data/
 coach_gt/
-submissions/
+/submissions/*
 out/
 *.zip
 .env
+
+# Day 11 deliverables
+!/submissions/nguyenmanhdung-qc1-for-hoangquocmanh.md
+!/submissions/nguyenmanhdung-report.md
+!/submissions/nguyenmanhdung-front.zip
+!/submissions/nguyenmanhdung-fisheye.zip
+!/submissions/nguyenmanhdung-manifest.json

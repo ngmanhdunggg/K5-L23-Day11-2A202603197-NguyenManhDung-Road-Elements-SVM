@@ -1,0 +1,8 @@
+<image id="7" name="A08_c0deebc1-16cfa791.jpg" subset="default" task_id="25" width="1280" height="720">
+  <polyline label="lane" source="manual" occluded="0" points="1275.23,481.43;1045.20,406.36;883.46,354.02;769.42,316.57" z_order="0">
+    <attribute name="position">R2</attribute>
+    <attribute name="style">solid</attribute>
+    <attribute name="color">white</attribute>
+    <attribute name="kind">single</attribute>
+  </polyline>
+</image>
